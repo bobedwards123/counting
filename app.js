@@ -10,4 +10,3 @@ $('.counter-count').each(function () {
     });
 });
 
-alert('hello world');
